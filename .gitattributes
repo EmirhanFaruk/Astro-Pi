@@ -1,0 +1,5 @@
+IMG_DATA.zip filter=lfs diff=lfs merge=lfs -text
+images/IMG_DATA/T35SMD_20180607T085601_B02.jp2 filter=lfs diff=lfs merge=lfs -text
+images/IMG_DATA/T35SMD_20180607T085601_B03.jp2 filter=lfs diff=lfs merge=lfs -text
+images/IMG_DATA/T35SMD_20180607T085601_B04.jp2 filter=lfs diff=lfs merge=lfs -text
+images/IMG_DATA/T35SMD_20180607T085601_B08.jp2 filter=lfs diff=lfs merge=lfs -text
